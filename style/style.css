@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    padding: 60px 88px 16px 82px;
+    display: flex;
+    align-items: center;
+}
+.aa{
+    display: flex;
+    justify-content: space-between;
+    width: 563px;
+    height: 43px;
+    margin-left: 227px;
+    font-size: 20px;
+}
+h1 a, ul li a{
+    color: black;
+}
+h1{
+    width: 83px;
+    height: 30px;
+    margin-bottom: 14px;
+}
